@@ -1,0 +1,26 @@
+body{
+    background:#000000;
+  }
+  
+  
+  .page-section{
+    width: 10%;
+    height: 50%;
+    position: absolute;
+    outline: 1px solid #fff
+  }
+  
+  #first{
+    position:relative;
+    margin: 50% 50%;
+    color: red;
+  }
+  
+  #first:hover{
+    margin:0;
+  }
+  
+  #main-header {
+    color:#fff;
+    font-family:sans-serif;
+  }  
