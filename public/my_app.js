@@ -15,7 +15,7 @@ var y = 5
 var output2 = x + y
 console.log(output2)
 
-if (y > x) {
+/*if (y > x) {
     console.log("X is greater than Y")
 for (let )
-}
+}*/
