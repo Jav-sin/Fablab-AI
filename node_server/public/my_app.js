@@ -1,2 +1,3 @@
-//main js file
-//Tavo
+function alertMessage() {
+    alert('hello, world');
+}
