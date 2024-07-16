@@ -12,7 +12,7 @@ console.log(x + name)
 console.log(output)
 
 var y = 5
-var output2 = x + y
+var output2 = (x + y)
 console.log(output2)
 
 /*if (y > x) {
